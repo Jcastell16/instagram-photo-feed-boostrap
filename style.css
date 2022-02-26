@@ -1,0 +1,16 @@
+.tamano1
+{
+    width: 800px;
+}
+.nav-pills .nav-link.active, .nav-pills .show >.nav-link {
+    color: white;
+    background-color: grey;
+}
+
+.nav-pills .nav-link{
+    color: gray;
+}
+.brand{
+    font-family: 'Lobster', cursive;
+
+}
